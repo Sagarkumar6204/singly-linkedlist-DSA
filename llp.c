@@ -10,7 +10,7 @@ void printll();
 void search_e();
 
 void display();
-void insert_option();
+void insert_option(); 
 void delete_option();
 void search_option();
 void insert_begin();
